@@ -88,7 +88,7 @@ GroceryMarket is an online food and grocery store. You will find everything you 
 
 
 # Individual Project:- 
-  - [Lokesh Patidar](https://github.com/lokesh-patidar)
+  - [Shivam](https://github.com/shivamji642002)
   
 
 </br>
